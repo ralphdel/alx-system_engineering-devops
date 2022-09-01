@@ -1,1 +1,1 @@
-shell basics file
+My shell permission scripts
